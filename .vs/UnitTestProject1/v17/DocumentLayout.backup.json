@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{E299C24F-9E99-4B85-8446-5F7EAE5F4FFC}|UnitTestProject1.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E299C24F-9E99-4B85-8446-5F7EAE5F4FFC}|UnitTestProject1.csproj|c:\\users\\brand\\onedrive\\desktop\\projects\\newtestproject\\unittestproject1\\applypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E299C24F-9E99-4B85-8446-5F7EAE5F4FFC}|UnitTestProject1.csproj|C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\seleniumhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E299C24F-9E99-4B85-8446-5F7EAE5F4FFC}|UnitTestProject1.csproj|solutionrelative:seleniumhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E299C24F-9E99-4B85-8446-5F7EAE5F4FFC}|UnitTestProject1.csproj|C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\applypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E299C24F-9E99-4B85-8446-5F7EAE5F4FFC}|UnitTestProject1.csproj|solutionrelative:applypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,25 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplyPage.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\ApplyPage.cs",
-              "RelativeDocumentMoniker": "ApplyPage.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\ApplyPage.cs",
-              "RelativeToolTip": "ApplyPage.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T23:11:06.993Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,10 +32,38 @@
               "RelativeDocumentMoniker": "UnitTest1.cs",
               "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T23:03:13.569Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleniumHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\SeleniumHelpers.cs",
+              "RelativeDocumentMoniker": "SeleniumHelpers.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\SeleniumHelpers.cs",
+              "RelativeToolTip": "SeleniumHelpers.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:03:01.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplyPage.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\ApplyPage.cs",
+              "RelativeDocumentMoniker": "ApplyPage.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\NewTestProject\\UnitTestProject1\\ApplyPage.cs",
+              "RelativeToolTip": "ApplyPage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:11:06.993Z"
             }
           ]
         }

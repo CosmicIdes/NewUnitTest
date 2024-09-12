@@ -25,5 +25,15 @@ namespace UnitTestProject1
         public IWebElement firstNameTextBox => _driver.FindElement(By.XPath("//input[@id='tfa_2']"));
         public IWebElement lastNameTextBox => _driver.FindElement(By.XPath("//input[@id='tfa_3']"));
         public IWebElement preferredNameTextBox => _driver.FindElement(By.XPath("//input[@title='Preferred Name ']"));
+        public IWebElement phoneNumberTextBox => _driver.FindElement(By.Id("tfa_216"));
+        public IWebElement birthDateTextBox => _driver.FindElement(By.Id("tfa_5"));
+        public IWebElement streetNameTextBox => _driver.FindElement(By.Id("tfa_6"));
+        public IWebElement cityTextBox => _driver.FindElement(By.Id("tfa_7"));
+        public IWebElement stateDropdown => _driver.FindElement(By.Id("tfa_220"));
+        public IWebElement zipCodeTextBox => _driver.FindElement(By.Id("tfa_9"));
+        public IWebElement countyDropdown => _driver.FindElement(By.Id("tfa_59"));
+        public IWebElement genderDropdown => _driver.FindElement(By.Id("tfa_30"));
+        public IWebElement submitButton => _driver.FindElement(By.Id("submit_button"));
+
     }
 }
